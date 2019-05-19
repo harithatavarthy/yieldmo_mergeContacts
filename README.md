@@ -32,7 +32,9 @@ https://github.com/harithatavarthy/yieldmo_mergeContacts/blob/master/mergeContac
 # How to run this code
 
 a. Run the command `git clone https://github.com/harithatavarthy/yieldmo_mergeContacts.git`
+
 b. Run the command `mkdir yieldmo_mergeContacts`
+
 c. Run the command `python mergeContacts.py`
 
 You will see the output at the terminal
